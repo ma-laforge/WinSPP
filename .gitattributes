@@ -1,3 +1,4 @@
 *.exe binary
 *.ico binary
 *.emf binary
+*.png binary
