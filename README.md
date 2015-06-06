@@ -38,7 +38,7 @@ Certain versions of StarOffice/OpenOffice (/LibreOffice?) incorrectly interpret 
 - Does not support legends
 
 ## Compiling
-WinSPP is currently provided with as two simple programs written in Visual Studio 2013.  It *should* be straightforward to compile with VS2013 by opening/building from the solution file: VisualStudio2013/WinSPP/WinSPP.sln.
+WinSPP is currently provided as two small programs written in Visual Studio 2013.  It *should* be straightforward to compile with VS2013 by opening/building from the solution file: VisualStudio2013/WinSPP/WinSPP.sln.
 
 ## Disclaimer
 This software is provided "as is", with no guarantee of correctness.  Use at own risk.
