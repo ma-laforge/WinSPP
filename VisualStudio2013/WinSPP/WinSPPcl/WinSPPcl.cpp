@@ -1,4 +1,4 @@
-// WinSPPbatch.cpp : Defines the entry point for the console application.
+// WinSPPcl.cpp : Main section of WinSPP command-line.
 //
 #include <tools/CExtensions.h>
 #include <tools/ContainerExtensions.h>
@@ -60,7 +60,6 @@ int _tmain(int argc, _TCHAR* argv[])
 			cerr << "ERROR: Could not save file: " << destEmfPath << "\n";
 			returnCode = 1;
 		}
-
 	}
 
 	return returnCode;

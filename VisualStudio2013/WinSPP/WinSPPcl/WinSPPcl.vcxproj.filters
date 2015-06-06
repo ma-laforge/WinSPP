@@ -20,9 +20,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="WinSPPbatch.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\libwin\plotting\SPPlot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -36,6 +33,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\lib\tools\CExtensions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinSPPcl.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
