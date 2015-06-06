@@ -221,6 +221,7 @@ namespace WinSPP {
 			// 
 			// pbPreview
 			// 
+			this->pbPreview->BorderStyle = System::Windows::Forms::BorderStyle::Fixed3D;
 			this->pbPreview->Location = System::Drawing::Point(131, 29);
 			this->pbPreview->Name = L"pbPreview";
 			this->pbPreview->Size = System::Drawing::Size(359, 182);
