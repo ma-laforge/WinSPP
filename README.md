@@ -1,5 +1,14 @@
-# WinSPP
+[InspectDR]: <https://github.com/ma-laforge/InspectDR.jl>
+
+# WinSPP: Publication-quality <var>S</var>-parameter & polar plots
+
 Generates publication-quality S-parameter plots & polar plots.  Plot are saved as an enanced Windows metafile (.emf file) that can be resized with no loss of quality.
+
+## :heavy_exclamation_mark: Deprecation Warning
+
+To a large part, WinSPP has been superseded by [InspectDR].  [InspectDR] has more control over plots, and is more portable than WinSPP.  Note, however, that WinSPP still has a few advantages for the moment:
+ - Supports polar plots (sometimes useful for transmission coefficients).
+ - Exports to .emf format: At the moment, .emf is easier to integrate into most Windows application (when compared to .svg).
 
 ## Sample Output (Click image to access .emf version)
 ### Smith Plot
